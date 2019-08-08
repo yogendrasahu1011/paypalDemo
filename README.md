@@ -11,3 +11,5 @@ To use in a live website configure client Id and secret in start.php line <<<--$
 new \PayPal\Auth\oAuthTokenCredential('id', 'secret');
 
 and configure your SITE_URL to your site landing page
+
+![Image description](/demo.png)
